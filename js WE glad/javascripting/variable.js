@@ -150,7 +150,11 @@
 
 
 
-// const arfam = { type: "indian", member: "4", continent: "Asia" }
+const arfam = { 
+    type: "indian", 
+    member: "4", 
+    continent: "Asia" 
+}
 
 
 // arfam.continent= "AUS";
