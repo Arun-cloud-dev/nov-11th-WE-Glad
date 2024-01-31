@@ -34,9 +34,9 @@
 //   // code ex block
 // }
 
-let day = 4;
+// let day = 4;
 
-switch (day){
-    case 1:
+// switch (day){
+//     case 1:
         
-}
+// }
